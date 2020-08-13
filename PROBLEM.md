@@ -17,12 +17,12 @@ The marks in each of the subject should be taken as input from the user and stor
 The pass mark for each subject is 35, which means that to pass the exam, a student needs to score at least 35 in all of the five subjects. 
 
 Based on average marks scored, each student is graded. The grading strategy is as follows:
-- Average Marks >=95 -- 'O'
-- Average Marks >=80 and <90 -- 'A'
-- Average Marks >=70 and <80 -- 'B'
-- Average Marks >=60 and <70 -- 'C'
-- Average Marks >=50 and <60 -- 'D'
-- Average Marks <50 -- 'E'
+- Average Marks >=95 -- 'A'
+- Average Marks >=80 and <90 -- 'B'
+- Average Marks >=70 and <80 -- 'C'
+- Average Marks >=60 and <70 -- 'D'
+- Average Marks >=50 and <60 -- 'E'
+- Average Marks <50 -- 'F'
 
 The application should be able:
 - Find the total marks scored by each student and store them in an array.
